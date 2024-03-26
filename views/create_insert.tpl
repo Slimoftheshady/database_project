@@ -10,14 +10,9 @@
             <p><a href="/">Return to Home Page</a></p>
         </header>
 
-        <h1>Creating Empty Database</h1>
+        <h1>{{ title }}</h1>
 
-	    % if success == "success":
-        %       description = "Database created successfully"
-        % else:
-        %       description = "Database creation failed"
-        % end
-		<p class="{{ success }}"><strong>{{ description }}</strong></p>
+		<p>Data Inserted Sucessfully</p>
 
         <footer>
             <p><a href="/">Return to Home Page</a></p>
