@@ -1,0 +1,70 @@
+body {
+    background: #B1D8B7;
+}
+
+h1 {
+    background-color: #2F5233;
+    color: #B1D8B7;
+    text-align: center;
+    border-radius: 10px;
+    padding: 40px;
+}
+
+.querySection {
+    border: #2F5233 6px solid;
+    border-radius: 10px;
+    margin: 5px auto;
+    padding: 10px;
+}
+
+.queryForm {
+    border-radius: 10px;
+    background-color: #94C973;
+    padding: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.queryForm h3 {
+    margin: 0px auto;
+    color: #2F5233;
+}
+
+#container {
+    margin: auto;
+    width: 1000px;
+}
+
+.querySection p {
+    margin: 0;
+    padding: 0;
+}
+.querySection a {
+    background-color: #94C973;
+    padding: 20px 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #2F5233;
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+header p, footer p {
+    margin: 0;
+    padding: 0;
+}
+
+header a, footer a {
+    background-color: #94C973;
+    padding: 20px 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #2F5233;
+    text-align: center;
+    font-size: larger;
+}
